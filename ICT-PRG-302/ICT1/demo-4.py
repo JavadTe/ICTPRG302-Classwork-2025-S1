@@ -18,4 +18,3 @@ if letter.isalpha():
 else:
     print("You entered a non alpha character.")
 
-i

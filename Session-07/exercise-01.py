@@ -14,3 +14,4 @@ file = open("scores.txt","r")
 for line_from_file in file:
     print(line_from_file.strip())
 file.close()
+
